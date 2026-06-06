@@ -1,0 +1,7 @@
+RESUMEN DE VENTAS
+=================
+
+Ventas totales: 1812114
+Venta promedio: 4951.13
+Venta máxima: 8960
+Venta mínima: 1003
